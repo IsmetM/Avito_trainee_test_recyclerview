@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mint_200">#A7FFEB</color>
+    <color name="blue_500">#00ABFE</color>
+    <color name="purple_700">#B388FF</color>
+    <color name="teal_200">#84FFFF</color>
+    <color name="teal_700">#B9F6CA</color>
+    <color name="mint_700">#B9F6CA</color>
+    <color name="pink_red_200">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_list">#FAFAFA</color>
+    <color name="background_list_2">#E3DBC7</color>
+</resources>
