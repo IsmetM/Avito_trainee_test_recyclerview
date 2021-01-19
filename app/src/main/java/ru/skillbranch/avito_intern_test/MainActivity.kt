@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity(), RecyclerListOfNumberAdapter.IOnItemCli
     }
 
     override fun onRemoveItemClick(position: Int) {
-        Toast.makeText(this, "Item removed $position positions", Toast.LENGTH_SHORT).show()
+//        Toast.makeText(this, "Item removed $position positions", Toast.LENGTH_SHORT).show()
         if (itemList.isNotEmpty()) {
             poolList.add(itemList[position])
             itemList.removeAt(position)
